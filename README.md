@@ -1,6 +1,6 @@
 # git-mirror-test
 
-This is an update
+This is an update yep from upstream
 A test repository for GitLab mirroring
 
 New commit from GitHub
